@@ -13,7 +13,7 @@ Globally: `npm i -g typescript`
 
 ### Target `dist` dir as out
 
-````JSON
+```
 {
   "compilerOptions": {
     ...
