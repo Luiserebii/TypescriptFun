@@ -1,4 +1,6 @@
-# aaaaaaaaaaa
+# noob
+
+A setup for noobs aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 ## Basic Stuff
 
@@ -10,6 +12,21 @@ Globally: `npm i -g typescript`
 ### Set up .tsconfig.json
 
 `tsc --init`
+
+### Target `src` dir at in
+
+```
+{
+  "compilerOptions": {
+    ...
+
+    "include": [
+      "src"
+    ]
+    ...
+  }
+}
+```
 
 ### Target `dist` dir as out
 
@@ -45,6 +62,10 @@ Within package.json:
 }
 ```
 
-### Hooray
+You can just do this for fun
 
-I guess
+### Uhhhhh
+
+You can exclude `dist` by adding it to .gitignore I guess
+
+neat
