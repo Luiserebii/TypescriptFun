@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Luiserebii/TypescriptFun/issues"
   },
-  "homepage": "https://github.com/Luiserebii/TypescriptFun#readme"
+  "homepage": "https://github.com/Luiserebii/TypescriptFun#readme",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
 }
