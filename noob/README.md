@@ -19,12 +19,11 @@ Globally: `npm i -g typescript`
 {
   "compilerOptions": {
     ...
+  },
 
-    "include": [
-      "src"
-    ]
-    ...
-  }
+  "include": [
+    "src"
+  ]
 }
 ```
 
